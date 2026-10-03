@@ -1,6 +1,14 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: DDGCZBZGJ3
+version: Garena
+data-added: Oct 03, 2026
+
+r-code: DDGDZBZM6J
+version: Garena
+data-added: Oct 03, 2026
+
 r-code: TITOCODMCARES
 version: Unknown
 data-added: Sep 23, 2026
