@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP  NEWEST)
 const redeemCodesData = `
 
+r-code: BONIFACIODAY
+version: Garena
+data-added: Nov 28, 2026
+
 r-code: CODMGIFTX5A9
 version: Garena
 data-added: Nov 28, 2026
